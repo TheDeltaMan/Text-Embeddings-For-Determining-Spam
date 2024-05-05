@@ -1,1 +1,2 @@
 # Text-Embeddings-For-Determining-Spam
+This repo contains a csv file I downloaded from Kaggle.com. It contains a list of more than 5000 SMSs that contain spam and ham (not spam) SMSs. I used this data to train a spam classification machine learning model, using OpenAI's "text-embedding-3-small" model. The code for converting the text data into vectorss and training the model is in the Jupyter Notebook file. 
